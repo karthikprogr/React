@@ -1,0 +1,106 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "id": "3",
+      "title": "react",
+      "views": 300
+    },
+    {
+      "id": "4",
+      "title": "java",
+      "views": 500
+    },
+    {
+      "id": "4",
+      "title": "python",
+      "views": 400
+    },
+    {
+      "id": "5",
+      "title": "js",
+      "views": 500
+    },
+    {
+      "id": "1fc8",
+      "title": "sfd",
+      "views": 600
+    },
+    {
+      "id": "9595",
+      "title": "hi",
+      "views": 300
+    },
+    {
+      "id": "2683",
+      "title": "hi",
+      "views": 300
+    },
+    {
+      "id": "6052",
+      "title": "hi",
+      "views": 300
+    },
+    {
+      "id": "6afb",
+      "title": "hi",
+      "views": 300
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "student": [
+    {
+      "id": "1",
+      "name": "a title",
+      "course": 100,
+      "fee": 9000
+    },
+    {
+      "id": "2",
+      "name": "a title",
+      "course": 200,
+      "fee": 90000
+    },
+    {
+      "id": "3",
+      "name": "a title",
+      "course": 300,
+      "fee": 3000
+    },
+    {
+      "id": "1482",
+      "name": "karthik",
+      "course": 200,
+      "fee": 90000
+    },
+    {
+      "id": "6aa8",
+      "name": "nagi",
+      "course": 6000,
+      "fee": 60000
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
